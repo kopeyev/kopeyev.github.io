@@ -1,9 +1,9 @@
 ### Site info:
-title: Banu - pirozhok
-tagline: Сделай мне массаж
+title: Help
+tagline: ROlton
 author: Kopeyev Almas
 email: kopeyev07@gmail.com
-description: "Сделай мне массаж" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+description: "Love eating" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "Jekyll, theme, Freshman21"
 baseurl: "/#" # the subpath of your site, e.g. /blog/
 url: "https://kopeyev.github.io" # the base hostname & protocol for your site
