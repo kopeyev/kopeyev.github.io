@@ -173,12 +173,12 @@ locales:
 ### your Blogroll info, only name can shown on the page.
 
 Blogroll:
-      - name: Freshman
-        href: http://yulijia.net/freshman
+      - name: Kopeyev
+        href: http://kopeyev.github.io
         title: Another Jekyll blog theme
       - name: author's website
-        href: http://yulijia.net/
-        title: Lijia Yu's website
+        href: http://kopeyev.github.io
+        title: Kopeyev's website
 
 
 ### Build settings
